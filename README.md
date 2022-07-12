@@ -3,9 +3,9 @@ Actividad Git-Github Equipo 1
 
 Tecnologico de Monterrey
 
-Santiago Segura  
+Santiago Segura  - A01246578
 Nancy  
-Paola Balbuena  
-Isaac Aredoneo  
-Jaime Guzman  
+Paola Vega  - A01199517
+Isaac Arredondo -  A00828359
+Jaime Guzman  - A00827834
 
