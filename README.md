@@ -9,4 +9,4 @@ Paola Balbuena
 Isaac Aredoneo
 Jaime Guzman
 
-![alt text](https://es.m.wikipedia.org/wiki/Archivo:Logo_del_ITESM.svg)
+<img src="https://es.m.wikipedia.org/wiki/Archivo:Logo_del_ITESM.svg"/>
